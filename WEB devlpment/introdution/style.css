@@ -1,0 +1,21 @@
+h1{
+    color: rgb(4, 2, 1);
+    text-align: center;
+    background-color: blueviolet;
+    text-decoration: solid;
+    border: 12px solid goldenrod;
+    padding: auto;
+    /* change font**/
+}
+h2{
+    color: rgb(4, 2, 1);
+    background-color: rgb(234, 126, 148);
+    text-decoration: solid;
+    border: 12px solid goldenrod;
+    padding: auto;
+    /* change font**/
+}
+body{
+    background-attachment: fixed;
+    background- image:url("")
+}
