@@ -17,6 +17,7 @@ A simple personal introduction webpage created while learning HTML and basic web
 **Technologies Used:**
 
 * HTML
+* css
 
 ---
 
